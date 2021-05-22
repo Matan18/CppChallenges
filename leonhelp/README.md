@@ -110,6 +110,5 @@ Nessa imagem, o intuito é pegar o maior número em valor ($), sem passar o máx
 
 No desafio, o objeto é dar o maior dano, sem gastar o máximo de balas
 
-Achei essa explicação e utilizei a lógica desse vídeo para formar a reposta através de knapsack ([knapsack.cpp](/leonhelp/knapsack.cpp)), e utilizei o mesmo pra tentar otimizar o código através de [memoização](https://en.wikipedia.org/wiki/Memoization) ([memoknapsack.cpp](/leonhelp/memoknapsack.cpp))
+Achei essa explicação e utilizei a lógica desse vídeo ([0-1 Knapsack Problem (Dynamic Programming)](https://www.youtube.com/embed/xOlhR_2QCXY)) para formar a reposta através de knapsack ([knapsack.cpp](/leonhelp/knapsack.cpp)), e utilizei o mesmo pra tentar otimizar o código através de [memoização](https://en.wikipedia.org/wiki/Memoization) ([memoknapsack.cpp](/leonhelp/memoknapsack.cpp))
 
-<iframe width="300" height="167" src="https://www.youtube.com/embed/xOlhR_2QCXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
