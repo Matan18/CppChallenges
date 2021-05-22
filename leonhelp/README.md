@@ -1,6 +1,6 @@
 # Ajude o Leon
 
-O desafio é da URI Online Judge, de número 2169, onde o dado o número de armas que o Leon está carregando, a quantidade de balas de cada arma, e a quantidade e tipo dos inimigos em uma fase, qual será o resultado, Leon sai de lá morto ou vivo?
+O desafio é da URI Online Judge, de número 2169, onde é dado o número de armas que o Leon está carregando, a quantidade de balas de cada arma, o máximo de balas que ele pode usar, e a quantidade e tipo dos inimigos em uma fase, qual será o resultado, Leon sai de lá morto ou vivo?
 
 Tabela de potência de armas
 
@@ -103,7 +103,10 @@ Nesse exemplo, gastar todas as balas da STRIKER vai matar todos os inimigos, mas
 
 ## Knapsack
 
+Sem a dica e ajuda do [LucasGabriel-CP](https://github.com/LucasGabriel-CP) eu não sei se conseguiria pensar nessa forma de resolver.
+
 Esse é um problema de knapsack
+<br/>
 ![](/assets/knapsack.png)
 
 Nessa imagem, o intuito é pegar o maior número em valor ($), sem passar o máximo de peso (15Kg)
